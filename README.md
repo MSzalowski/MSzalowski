@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MSzalowski
 - 👀 I’m interested in mobile development, IoT and cloud
-- 🌱 I’m currently learning nest.js and some devops techniques
-- 💞️ I’m looking to collaborate on - nothing atm.
+- 🌱 I’m currently learning nest.js and some devops things
 - 📫 How to reach me - michal.szalowski@gmail.com
 
 <!---
